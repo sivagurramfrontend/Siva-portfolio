@@ -1,6 +1,1 @@
-Siva Premium Static Portfolio
-
-Pure HTML + CSS + JavaScript. No React, Vite, Node or npm required.
-
-Deployment: upload these files to GitHub and import the repository into Vercel.
-Open index.html locally to preview.
+Replace only index.html, style.css and script.js in your existing portfolio. Keep your four existing PNG images exactly where they are.
